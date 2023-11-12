@@ -1,0 +1,2 @@
+const myGlobal = 0;
+
